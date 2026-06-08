@@ -20,3 +20,11 @@ Containerized a static website using Docker and exposed it via port mapping.
 🔗 Repository:
 https://github.com/sufiyaan14/dockerized-static-website
 
+---
+
+## 3️⃣ Terraform AWS EC2 Infrastructure
+
+Provisioned AWS infrastructure using Terraform, including an EC2 instance and Security Group, while practicing Infrastructure as Code (IaC), AWS automation, and Terraform workflows.
+
+🔗 Repository:
+https://github.com/sufiyaan14/terraform-aws-ec2
